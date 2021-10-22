@@ -1,0 +1,6 @@
+#hello
+i have created three index seperatly so i have files in the same folder as index , kindly run each index seperetly so i wont create any issues , also i deleted the index which i created as you will be running the code and it will create the index and use it for retrieval.
+
+Please reach to me incase it throws any error #np58s@missouristate.edu 
+i have tested my code with lots of words also i used the words given in assignment as text files and passed them to test.
+for biword and inverted index i have used sets operation so we cant sort the results as set is collection of unordered list with out duplicates.
